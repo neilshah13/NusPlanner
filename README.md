@@ -12,7 +12,7 @@ This is our offical project for BT3103 Web Application Development.
 
 This project is created using Vue.js and Firebase.
 
-It is meant to be a web application that aims to encompass all the common functionlities that a NUS student would require.
+It is meant to be a web application that aims to encompass all the common functionalities that a NUS student would require.
 
 It supports the following features:
 - User Authentication
